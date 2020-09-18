@@ -1,0 +1,18 @@
+{C:/Users/ranjan yadav/OneDrive/Desktop/DSTTD LAB/SHA_256_FINAL_255_BITS/sha_256.sv} {1 {vlog -work work -vopt -sv -cover sbce3 -stats=none {C:/Users/ranjan yadav/OneDrive/Desktop/DSTTD LAB/SHA_256_FINAL_255_BITS/sha_256.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module sha_256
+
+Top level modules:
+	sha_256
+
+} {} {}} {C:/Users/ranjan yadav/OneDrive/Desktop/DSTTD LAB/SHA_256_FINAL_255_BITS/test.sv} {2 {vlog -work work -vopt -sv -cover sbce3 -stats=none {C:/Users/ranjan yadav/OneDrive/Desktop/DSTTD LAB/SHA_256_FINAL_255_BITS/test.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module test
+** Warning: C:/Users/ranjan yadav/OneDrive/Desktop/DSTTD LAB/SHA_256_FINAL_255_BITS/test.sv(16): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/ranjan yadav/OneDrive/Desktop/DSTTD LAB/SHA_256_FINAL_255_BITS/test.sv(20): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/ranjan yadav/OneDrive/Desktop/DSTTD LAB/SHA_256_FINAL_255_BITS/test.sv(23): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	test
+
+} {} {}}
